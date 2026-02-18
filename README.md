@@ -42,3 +42,42 @@ Depois disso:
 Pressione W para abrir no navegador
 
 Ou use o app Expo Go no celular
+
+🇺🇸 English Version
+📊 Sawil Accounting - Final Project
+
+Project developed for the final academic evaluation using React Native (Expo) and Firebase.
+
+🎯 Objective
+
+Build a management system for Sawil Accounting, including:
+
+🔐 User authentication (Login and Register)
+
+📁 Categories CRUD
+
+📌 Services CRUD
+
+🔥 Firebase integration (Authentication + Firestore)
+
+🧭 Structured navigation
+
+🗂 Organized project architecture
+
+🛠 Technologies Used
+
+React Native
+
+Expo
+
+Firebase Authentication
+
+Firebase Firestore
+
+Context API
+
+JavaScript
+
+🚀 How to run the project
+npm install
+npx expo start
