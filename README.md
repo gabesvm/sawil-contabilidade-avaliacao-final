@@ -44,9 +44,12 @@ Depois disso:
 
 ---
 
-# 🇺🇸 English Version
+---
+
+## 🇺🇸 English Version
 
 # 📊 Sawil Accounting - Final Project
+
 
 Project developed for the final academic evaluation using **React Native (Expo) and Firebase**.
 
@@ -82,3 +85,9 @@ Build a management system for **Sawil Accounting**, including:
 npm install
 npx expo start
 ```
+
+After running the command:
+
+- Press W to open in the browser
+- Or use the Expo Go app on your mobile device
+
