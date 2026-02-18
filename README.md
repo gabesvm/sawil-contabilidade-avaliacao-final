@@ -1,83 +1,84 @@
-📊 Sawil Contabilidade - Avaliação Final
+# 📊 Sawil Contabilidade - Avaliação Final
 
-Projeto desenvolvido para a Avaliação Final da disciplina, utilizando React Native com Expo e Firebase.
+Projeto desenvolvido para a Avaliação Final da disciplina, utilizando **React Native com Expo e Firebase**.
 
-🎯 Objetivo
+---
 
-Desenvolver um sistema de gestão para a empresa Sawil Contabilidade, contendo:
+## 🎯 Objetivo
 
-🔐 Autenticação de usuários (Login e Cadastro)
+Desenvolver um sistema de gestão para a empresa **Sawil Contabilidade**, contendo:
 
-📁 CRUD de Categorias
+- 🔐 Autenticação de usuários (Login e Cadastro)
+- 📁 CRUD de Categorias
+- 📌 CRUD de Serviços
+- 🔥 Integração com Firebase (Authentication + Firestore)
+- 🧭 Navegação estruturada
+- 🗂 Organização em pastas e separação de responsabilidades
 
-📌 CRUD de Serviços
+---
 
-🔥 Integração com Firebase (Authentication + Firestore)
+## 🛠 Tecnologias Utilizadas
 
-🧭 Navegação estruturada
+- React Native  
+- Expo  
+- Firebase Authentication  
+- Firebase Firestore  
+- Context API  
+- JavaScript  
 
-🗂 Organização em pastas e separação de responsabilidades
+---
 
-🛠 Tecnologias Utilizadas
+## 🚀 Como executar o projeto
 
-React Native
-
-Expo
-
-Firebase Authentication
-
-Firebase Firestore
-
-Context API
-
-JavaScript
-
-🚀 Como executar o projeto
+```bash
 npm install
 npx expo start
-
+```
 
 Depois disso:
 
-Pressione W para abrir no navegador
+- Pressione **W** para abrir no navegador  
+- Ou utilize o aplicativo **Expo Go** no celular  
 
-Ou use o app Expo Go no celular
+---
 
-🇺🇸 English Version
-📊 Sawil Accounting - Final Project
+---
 
-Project developed for the final academic evaluation using React Native (Expo) and Firebase.
+# 🇺🇸 English Version
 
-🎯 Objective
+# 📊 Sawil Accounting - Final Project
 
-Build a management system for Sawil Accounting, including:
+Project developed for the final academic evaluation using **React Native (Expo) and Firebase**.
 
-🔐 User authentication (Login and Register)
+---
 
-📁 Categories CRUD
+## 🎯 Objective
 
-📌 Services CRUD
+Build a management system for **Sawil Accounting**, including:
 
-🔥 Firebase integration (Authentication + Firestore)
+- 🔐 User authentication (Login and Register)
+- 📁 Categories CRUD
+- 📌 Services CRUD
+- 🔥 Firebase integration (Authentication + Firestore)
+- 🧭 Structured navigation
+- 🗂 Organized project architecture
 
-🧭 Structured navigation
+---
 
-🗂 Organized project architecture
+## 🛠 Technologies Used
 
-🛠 Technologies Used
+- React Native  
+- Expo  
+- Firebase Authentication  
+- Firebase Firestore  
+- Context API  
+- JavaScript  
 
-React Native
+---
 
-Expo
+## 🚀 How to run the project
 
-Firebase Authentication
-
-Firebase Firestore
-
-Context API
-
-JavaScript
-
-🚀 How to run the project
+```bash
 npm install
 npx expo start
+```
